@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-i am currently working on Recipe search.I am currently learning about the MERN stack
+i am pursuing Computer science in Pakistan and i am passionate about building products.
 
 ## 🌐 Socials:
 
